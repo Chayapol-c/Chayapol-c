@@ -12,9 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=Chayapol-c" alt="Chayapol-c" />
 <br/>
 
-[![Chayapol's github stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayapol-c&layout=compact&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
 
 Hi, I'm Chayapol or you can call me kaopun. I'm currently studying in Software Engineering at Kasetsart University.
 
@@ -34,3 +31,9 @@ Now, I'm studying in these things:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+
+**GitHub stat**
+
+[![Chayapol's github stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayapol-c&layout=compact&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
