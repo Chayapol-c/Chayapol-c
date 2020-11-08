@@ -11,7 +11,6 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Chayapol-c" alt="Chayapol-c" />
 <br/>
-<br/>
 
 [![Chayapol's github stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
 
