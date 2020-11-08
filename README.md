@@ -1,5 +1,5 @@
 ### Nice to see you
-
+<div>
 <a href="https://www.instagram.com/kao.cyp/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -7,7 +7,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<br/>
+</div>
 
 [![Chayapol's github stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
 
