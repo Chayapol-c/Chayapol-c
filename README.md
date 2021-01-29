@@ -1,5 +1,5 @@
 ## Nice to see you
-
+<div>
 <a href="https://www.instagram.com/kao.cyp/">
   <img align="left" alt="Kaopun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -9,8 +9,7 @@
 <a href="https://www.facebook.com/chayapol.chipongsawalee">
   <img align="left" alt="Kaopun | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br/>
-
+</div>
 
 Hi, I'm Chayapol or you can call me kaopun. I'm currently studying in Software Engineering at Kasetsart University.
 
