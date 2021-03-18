@@ -14,7 +14,7 @@
 </br>
 </br>
 
-Hi, I'm Chayapol or you can call me kaopun. I'm currently studying in Software Engineering at Kasetsart University.
+Hi, I'm Chayapol or you can call me kaopun. I'm currently year2 studying in Software Engineering at Kasetsart University.
 
 
 
