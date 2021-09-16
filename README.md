@@ -1,10 +1,10 @@
 ## Nice to see you
 
-Hi, I'm Chayapol or you can call me kaopun. I'm currently year2 studying in Software Engineering at Kasetsart University.
+#### Hi, I'm Chayapol or you can call me kaopun. I'm currently year3 studying in Software Engineering at Kasetsart University.
 
 
 
-**GitHub stat**
+
 
 [![Chayapol's github stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&theme=dracula)](https://github.com/Chayapol-c/github-readme-stats)
 
