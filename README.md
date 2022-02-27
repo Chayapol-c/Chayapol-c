@@ -1,6 +1,6 @@
 ## Nice to see you
 
-#### Hi, I'm Chayapol or you can call me kaopun. I'm currently year3 studying in Software Engineering at Kasetsart University.
+#### Hi, I'm Chayapol or you can call me kaopun. I'm third year student studying in Software Engineering at Kasetsart University who is interested in smart contracts and blockchain. I always want to learn a new knowledge and improve myself
 
 
 
