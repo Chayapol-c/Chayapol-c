@@ -18,8 +18,3 @@ Hi, I'm Chayapol or you can call me kp. I'm third year student studying in Softw
 ![Chayapol Repository's Stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&show_icons=true&theme=dracula)
 
 ![Chayapol Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayapol-c&theme=dracula&layout=compact&langs_count=10)
-
-## Interested
-- Web development
-- Technical analysis
-- Smart Contracts
