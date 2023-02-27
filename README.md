@@ -1,6 +1,6 @@
 ## Nice to see you
 
-Hi, I'm Chayapol or you can call me kp. I'm third year student studying in Software Engineering at Kasetsart University in Bangkok, Thailand.
+Senior software and knowledge engineering student from Kasetsart University interested in web application development, especially frontend development. I want to learn new knowledge and improve myself.
 
 ## Language and tools
 
