@@ -19,6 +19,6 @@ Senior software and knowledge engineering student from Kasetsart University inte
 
 ## GitHub stat
 
-![Chayapol Repository's Stats](https://github-readme-stats.vercel.app/api?username=Chayapol-c&show_icons=true&theme=dracula)
+![Chayapol's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayapol-c&show_icons=true&theme=radical)
 
-![Chayapol Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayapol-c&theme=dracula&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayapol-c&hide_progress=true&theme=radical)
