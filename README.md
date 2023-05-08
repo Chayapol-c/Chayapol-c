@@ -16,9 +16,3 @@ Senior software and knowledge engineering student from Kasetsart University inte
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## GitHub stat
-
-![Chayapol's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayapol-c&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayapol-c&hide_progress=true&theme=radical)
