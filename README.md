@@ -1,6 +1,6 @@
 ## Nice to see you
 
-Senior software and knowledge engineering student from Kasetsart University interested in web application development, especially frontend development. I want to learn new knowledge and improve myself.
+Fresh graduated Software and Knowledge Engineering student from Kasetsart University interested in web application development, especially frontend development. I want to learn new knowledge and improve myself.
 
 ## Languages and Tools
 
