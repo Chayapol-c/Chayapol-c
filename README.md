@@ -1,6 +1,6 @@
 ## Nice to see you
 
-Software Engineer experienced in web development, especially front-end development. Currently, I'm learning Android programming.
+I am a junior Android developer at Corporate A, experienced in front-end web development. Currently, I'm learning about some interesting Kotlin tools and frameworks.
 
 ## Programming Languages and Framework
 
