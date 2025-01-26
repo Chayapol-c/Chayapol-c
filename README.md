@@ -1,7 +1,6 @@
 ## Nice to see you
 
-I am a junior Android developer at Corporate A, experienced in front-end web development. Currently, I'm learning about some interesting Kotlin tools and frameworks.
-
+I am a front-end engineer at corporate A, experienced in front-end web development and android native development.
 ## Programming Languages and Framework
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
